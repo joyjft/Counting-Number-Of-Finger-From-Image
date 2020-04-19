@@ -20,5 +20,4 @@ Step-6: Subtracting the image of step-5 from the image of step-2.
 Step-7: Removing noise from the image of step-6.
 Step-8: Counting Number of object (fingers) by using bwlabel function.
 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Flow Diagram](flow_diagram.png)
